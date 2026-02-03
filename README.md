@@ -1,4 +1,21 @@
-# Hemodialysis Machine Prototype with Computer Vision Integration
+<div align="center">
+
+<img src="akatsuki_logo.png" alt="Akatsuki Medical Logo" width="120" height="120"/>
+
+# 暁 Akatsuki Hemodialysis Machin
+
+**Advanced Hemodialysis Machine Prototype with Computer Vision**
+
+[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![OpenCV](https://img.shields.io/badge/OpenCV-4.0+-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org)
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc)
+
+
+</div>
+
+---
+
+# Overview 
 
 ![Project Photo](Hemodialysis_prototype.jpg)
 
